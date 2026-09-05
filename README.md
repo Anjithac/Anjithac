@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <div align="center">
   
 # Anjitha C
