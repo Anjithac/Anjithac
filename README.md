@@ -2,11 +2,11 @@
 <div align="center">
   
 # Anjitha C
-**Data Analyst | Healthcare & Business Analytics**
-Calicut, India • Immediate Joiner • Open to Analyst Roles
+**Data Analyst | Data Scientist**
+Kannur, India • Immediate Joiner • Open to Data Analyst Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjitha-c-remesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anjithac27email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Anjithac)
 
 *Turning raw data into clear business decisions.*
